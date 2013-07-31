@@ -5,6 +5,8 @@ require 'pry'
 
 set :sessions, true
 
+
+# constants
 BLACKJACK_AMOUNT = 21
 DEALER_HIT_MIN = 17
 INITIAL_POT_AMOUNT = 500
